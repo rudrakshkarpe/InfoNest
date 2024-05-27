@@ -1,8 +1,9 @@
 # InfoNest
-Localization of open source LLMs
+Localization of open source LLMs with InfoNest: Secure, Local conversations with your Documents 📄 and Data 📁
+
 
 <details>
-<summary> References: </summary>
+<summary> CUDA Issue References 🧩: </summary>
 
 ### Fix Cuda Extensions Issue:
 First, I uninstalled
